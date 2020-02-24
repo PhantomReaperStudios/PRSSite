@@ -9,10 +9,15 @@ Well first I think iff you are reading this far your a legend and secondly this 
 
 **What We Do**
 Ok now this is what we do. What I hope for this Studio to do is I hope that we can post:
+
 *Art*
+
 *Pixel Art*
+
 *Music*
+
 *Code*
+
 *And More To Come Once We Get More People And Get The Website Made And Running.*
 
 **What We Plan To Do**
@@ -25,10 +30,14 @@ Well thats a great question to ask. Well currently it is just me but soon more t
 So That is about all the time I have and I have to go make this website, I am sure glad you read this far. If you have any questions please email the Studio. The contact Information will be below this.
 
 ***-私が誰なのかを教えてくれるので、違うことをあえて***
+
 ***-Dare To Be Different Because Who Am I To Tell Me Who I Am***
+
 ***-The Phantom Reaper***
 
 # How To Contact Us
 **Email:** PhantomReaperStudios@gmail.com
+
 **Facebook:** Coming Soon
+
 **Twitter:** Coming Soon
