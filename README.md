@@ -36,11 +36,11 @@ Well thats a great question to ask. Well currently it is just me but soon more t
 # Thanks
 So That is about all the time I have and I have to go make this website, I am sure glad you read this far. If you have any questions please email the Studio. The contact Information will be below this.
 
-***-私が誰なのかを教えてくれるので、違うことをあえて***
+>***-私が誰なのかを教えてくれるので、違うことをあえて***
 
-***-Dare To Be Different Because Who Am I To Tell Me Who I Am***
+>***-Dare To Be Different Because Who Am I To Tell Me Who I Am***
 
-***-The Phantom Reaper***
+>***-The Phantom Reaper***
 
 # How To Contact Us
 **Email:** PhantomReaperStudios@gmail.com
