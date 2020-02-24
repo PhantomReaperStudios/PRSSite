@@ -3,7 +3,7 @@ The Official Website Of The Phantom Reaper Studios Team
 
 ### Site links
 
-[Home](https://phantomreaperstudios.github.io/PRSSite/) [Team Members](https://phantomreaperstudios.github.io/PRSSite/Team%20Members/TeamMembers) [Art](https://phantomreaperstudios.github.io/PRSSite/Art/Art)
+[Home](https://phantomreaperstudios.github.io/PRSSite/)  [Team Members](https://phantomreaperstudios.github.io/PRSSite/Team%20Members/TeamMembers)  [Art](https://phantomreaperstudios.github.io/PRSSite/Art/Art)
 
 
 
