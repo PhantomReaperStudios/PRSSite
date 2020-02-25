@@ -2,14 +2,29 @@
 # Belongs at: /_data/navigation.yml
 
 - title: Home
-  url: /
+  url: /Sitepages/Home
 
-- title: Group of Things
-  url: /group/
+- title: Art
+  url: /Sitepages/Art/
   sublinks:
-    - title: Sub-item 1
-      url: /group/si1
-    - title: Sub-item 2
-      url: /group/si2
-    - title: Sub-item 3
-      url: /group/si3 
+    - title: Art Home Page
+      url: /Sitepages/Art/Arthome/
+- title: Coding Projects
+  url: /Sitepages/CodingProjects/
+  sublinks:
+    - title: Coding Projects
+      url: /Sitepages/CodingProjects/CodingProjectsHome/
+- title: Music
+  url: /Sitepages/Music/Musichome
+  sublinks:
+    - title: Staff Favorite Songs
+      url: /Sitepages/Music/StaffFavs/
+- title: Site Changes
+  url: /Sitepages/SiteChanges/SiteChangesHome
+- title: Team Members
+  url: /Sitepages/TeamMembers/Teammembershome
+  sublinks:
+    - title: Phantom Reaper
+      url: /Sitepages/TeamMembers/PhantomReaper/PhantomReaper
+- title: Contact Us
+  url: /Sitepages/ContactInfo
