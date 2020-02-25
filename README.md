@@ -1,6 +1,8 @@
 # PRSSite
 The Official Website Of The Phantom Reaper Studios Team
-
+---
+permalink: /Sitepages/PageIndex/
+---
 ### Site links
 
 
