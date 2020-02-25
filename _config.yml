@@ -1,1 +1,6 @@
 remote_theme: jekyll-theme-phantomreaper
+header_pages:
+  - Home.md
+  - ContactInfo.md
+  - PageIndex.md
+  - SiteChangesHome.md
