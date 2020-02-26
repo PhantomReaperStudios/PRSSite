@@ -1,8 +1,24 @@
 # PRSSite
 The Official Website Of The Phantom Reaper Studios Team
----
-permalink: /Sitepages/PageIndex/
----
+
+<form
+  action="https://formspree.io/mlenbgzl"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
+
 ### Site links
 
 
