@@ -2,9 +2,8 @@
 The Official Website Of The Phantom Reaper Studios Team
 
 | Have questions or want to learn more? |
-| ------------- |
-|
-<form
+|---------------------------------------|
+|<form
   action="https://formspree.io/mlenbgzl"
   method="POST"
 >
@@ -21,10 +20,8 @@ The Official Website Of The Phantom Reaper Studios Team
   <!-- your other form fields go here -->
 
   <button type="submit">Send</button>
-</form>
+</form>|
 
-------------- |
-              |
 ### Site links
 
 
