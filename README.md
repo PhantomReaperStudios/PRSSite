@@ -3,19 +3,22 @@ The Official Website Of The Phantom Reaper Studios Team
 
 <!-- modify this form HTML and place wherever you want your form -->
 
+<!-- modify this form HTML and place wherever you want your form -->
+
 <form
   action="https://formspree.io/moqwykpg"
   method="POST"
-  enctype="multipart/form-data"
 >
   <label>
     Your email:
     <input type="text" name="_replyto">
   </label>
   <label>
-    Your file:
-    <input type="file" name="upload">
+    Your message:
+    <textarea name="message"></textarea>
   </label>
+
+  <!-- your other form fields go here -->
 
   <button type="submit">Send</button>
 </form>
