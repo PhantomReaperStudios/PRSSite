@@ -13,6 +13,9 @@ The Official Website Of The Phantom Reaper Studios Team
     Your email:
     <input type="text" name="_replyto">
   </label>
+  
+-  
+  
   <label>
     Your message:
     <textarea name="message"></textarea>
