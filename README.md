@@ -1,6 +1,9 @@
 # PRSSite
 The Official Website Of The Phantom Reaper Studios Team
 
+| Have questions or want to learn more? |
+| ------------- |
+|
 <form
   action="https://formspree.io/mlenbgzl"
   method="POST"
@@ -20,6 +23,8 @@ The Official Website Of The Phantom Reaper Studios Team
   <button type="submit">Send</button>
 </form>
 
+------------- |
+              |
 ### Site links
 
 
