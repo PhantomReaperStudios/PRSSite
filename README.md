@@ -1,26 +1,24 @@
 # PRSSite
 The Official Website Of The Phantom Reaper Studios Team
 
-| Have questions or want to learn more? |
-|---------------------------------------|
-|<form
-  action="https://formspree.io/mlenbgzl"
+<!-- modify this form HTML and place wherever you want your form -->
+
+<form
+  action="https://formspree.io/moqwykpg"
   method="POST"
+  enctype="multipart/form-data"
 >
   <label>
     Your email:
     <input type="text" name="_replyto">
   </label>
-  
   <label>
-    Your message:
-    <textarea name="message"></textarea>
+    Your file:
+    <input type="file" name="upload">
   </label>
 
-  <!-- your other form fields go here -->
-
   <button type="submit">Send</button>
-</form>|
+</form>
 
 ### Site links
 
