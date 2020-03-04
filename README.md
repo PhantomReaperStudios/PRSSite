@@ -18,7 +18,7 @@ The Official Website Of The Phantom Reaper Studios Team
   <!-- your other form fields go here -->
 
   <button type="submit">Send</button>
-</form>
+></form>
 
 ### Site links
 
