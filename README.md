@@ -1,7 +1,7 @@
 # PRSSite
 The Official Website Of The Phantom Reaper Studios Team
 
-<form
+><form
   action="https://formspree.io/mlenbgzl"
   method="POST"
 >
@@ -9,6 +9,7 @@ The Official Website Of The Phantom Reaper Studios Team
     Your email:
     <input type="text" name="_replyto">
   </label>
+  
   <label>
     Your message:
     <textarea name="message"></textarea>
